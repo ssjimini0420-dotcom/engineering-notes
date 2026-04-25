@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3b49627bc3af1a93",
+        "id": "b3a172150d9d11f9",
         "type": "tabs",
         "children": [
           {
-            "id": "22478a7c7ca60772",
+            "id": "9562ad6a14039eb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          },
-          {
-            "id": "f1be34fd7da3f952",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,13 +161,23 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "09651d3a1334f939",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +187,11 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1be34fd7da3f952",
+  "active": "9562ad6a14039eb2",
   "lastOpenFiles": [
     "無題のファイル.md",
     "desktop.ini",
